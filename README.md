@@ -1,5 +1,3 @@
-# simpleRISC_1bc-vulpeex
-
 # Design for microarchitecture for a SimpleRISC CPU that implements a subset of instructions that we studied in the class.
 
 ## Here are the specifications for the ISA
